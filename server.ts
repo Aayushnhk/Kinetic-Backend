@@ -111,8 +111,8 @@ const handle = app.getRequestHandler();
 const port = process.env.PORT || 10000;
 
 const allowedOrigins = [
-  "https://whispr-o7.vercel.app",
-  "https://whispr-backend-sarl.onrender.com",
+  "https://Kinetic-o7.vercel.app",
+  "https://Kinetic-backend-sarl.onrender.com",
   "http://localhost:3000",
   "http://localhost:4000",
 ];

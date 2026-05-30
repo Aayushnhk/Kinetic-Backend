@@ -1,4 +1,4 @@
-// WHISPR-BACKEND/app/api/cloudinary-sign-upload/route.ts
+// Kinetic-BACKEND/app/api/cloudinary-sign-upload/route.ts
 
 import { NextRequest, NextResponse } from "next/server";
 import { v2 as cloudinary } from "cloudinary";
