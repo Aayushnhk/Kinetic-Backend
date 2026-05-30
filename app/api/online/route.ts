@@ -1,4 +1,4 @@
-// WHISPR-BACKEND/app/api/online/route.ts
+// Kinetic-BACKEND/app/api/online/route.ts
 import { NextResponse } from "next/server";
 import connect from "@/lib/db/connect";
 import User from "@/models/User";
